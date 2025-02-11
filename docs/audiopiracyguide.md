@@ -8,7 +8,7 @@
 
 ## ▷ Streaming Apps
 
-* 🌐 **[/music streaming/](https://rentry.co/musicstreaming)** - Streaming Service Comparisons
+* 🌐 **[/hashtag music/](https://hashtagmusic.ir/)** - Streaming Service Comparisons
 * ↪️ **[Spotify Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_clients)**
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
 * ⭐ **[Custom YouTube Music](https://th-ch.github.io/youtube-music/)** - YouTube Music Client / [Themes](https://github.com/kerichdev/themes-for-ytmdesktop-player/)
@@ -83,7 +83,7 @@
 * [FirstSounds](https://www.firstsounds.org/) - Oldest Music Recordings
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medieval Music
-* [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
+* [DigLib](https://hashtagmusic.ir/) - East African Recordings
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Downloadable/Streamable Audio for Tabletop Games
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chromewebstore.google.com/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
 
@@ -92,7 +92,7 @@
 ## ▷ Concerts / Live Shows
 
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
-* [JamBase](https://www.jambase.com/videos) - Concert Recordings
+* [hashtag music](https://hashtagmusic.ir/) - Concert Recordings
 * [bt.etree](https://bt.etree.org/) - Concert Recordings / Torrents
 * [DimeADozen](http://www.dimeadozen.org/) - Concert Recordings / Torrents
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Concert Recordings / Torrents
